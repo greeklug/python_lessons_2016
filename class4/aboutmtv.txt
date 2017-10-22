@@ -1,0 +1,35 @@
+
+                            [IMAGE] WHAT IS MTV.COM?
+                                       
+
+
+Good question...it's been asked alot lately.
+
+First of all, this site is _NOT_ sponsored in anyway by MTV Networks, although
+they _ARE_ aware of my endeavours and support it.
+
+My name is Adam Curry, I have been an on-air talent (VJ) with MTV for the past
+6 years. I've been living a second life in cyberspace for about the same period
+of time, and have taken it upon myself to put this site on-line, with all
+expenses coming out of my own pocket. Don't feel bad, I make enough at my
+"real" job.
+
+This site will always remain free to the internet community, something that
+might not be the case would MTV be running it themselves I'm afraid, but that's
+their business.
+
+Anyway, to make a long story short, this is my hobby, and you get what you pay
+for when you connect to this server. Within the next couple of weeks/months you
+should see alot of cool stuff coming online here, including video and audio
+stuff that will absolutely blow you away!
+
+Okay some technical details about this site:
+
+MTV.com is run on a Sun 3, that is connected to the Internet via a T1 provided
+by Digital Express in Maryland. There are no local disks on this machine,
+however there is close to 1 gig of NFS attached disk. Due to the explosive
+growth of accesses to this site in recent months, we will be upgrading MTV.com
+to a Sparc 10 sometime in the next month or so. This should result in a very
+noticeable increase in performance for all you folks out in netland.
+_______________________________________________________________________________
+    What is MTV.COM, Adam Curry

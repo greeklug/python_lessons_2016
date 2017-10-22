@@ -1,0 +1,54 @@
+
+Function είναι ένας τρόπος να συνδιάσουμε και να οργανώσουμε τη λογική του προγράμματός μας σε ένα block επαναχρησιμοποιούμενου κώδικα.
+
+Μία function στην πιο απλή μορφή της είναι ως εξής
+
+def doesNothing():
+  pass
+  
+για να καλέσουμε την function 
+
+doesNothing()
+
+Για να έχουμε επιστροφή από μία function 
+
+In [3]: def returnOne():
+   ...:     return 1
+   ...: 
+
+In [4]: x = returnOne()
+
+In [5]: print x
+1
+
+function να εκτελεί κάτι μέσα στο block της
+
+In [6]: def printSomething():
+   ...:     print "something"
+   ...:     
+
+In [7]: printSomething()
+something
+
+Για να περάσουμε ορίσματα (arguments) σε μία function 
+
+def addTwo(x, y=0):
+  result = x + y
+  return result
+  
+apotelesma = addTwo(2,4)
+print apotelesma
+6
+
+Για να βάλουμε ένα σχόλιο σε μία function
+
+def addTwo(x, y=0):
+  """
+  Adds 2 integers
+  """
+  result = x + y
+  return result
+
+In [9]: print addTwo.__doc__
+
+    adds 2
